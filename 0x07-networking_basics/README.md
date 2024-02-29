@@ -7,7 +7,6 @@
 		3. The OSI model is a model that characterizes the communication functions of a telecommunication system with a strong regard for their underlying internal structure and technology
 
 	How is the OSI model organized?
-
 		1. Alphabetically
 		2. From the lowest to the highest level
 		3. Randomly
@@ -38,9 +37,8 @@
 
 ### 4. TCP and UDP ports
 	Write a Bash script that displays listening ports:
-
-That only shows listening sockets
-That shows the PID and name of the program to which each socket belongs
+		That only shows listening sockets
+		That shows the PID and name of the program to which each socket belongs
 
 ### 5. Is the host on the network
 	Write a Bash script that pings an IP address passed as an argument.
