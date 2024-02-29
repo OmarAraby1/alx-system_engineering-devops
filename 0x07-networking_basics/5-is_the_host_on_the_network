@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Ping an IP Adress
 
 if [ "$#" -eq 0 ]
